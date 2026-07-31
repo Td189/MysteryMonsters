@@ -4,20 +4,7 @@
 #include <iostream>
 #include <utility>
 
-// ---------------------------------------------------------
-// Load sequentially numbered animation frames.
-//
-// Example:
-// folder = "photos/EmberFox"
-// prefix = "back"
-// frameCount = 4
-//
-// Loads:
-// photos/EmberFox/back0.png
-// photos/EmberFox/back1.png
-// photos/EmberFox/back2.png
-// photos/EmberFox/back3.png
-// ---------------------------------------------------------
+
 bool Animation::loadNumberedFrames(
 	const std::string& folder,
 	const std::string& prefix,
