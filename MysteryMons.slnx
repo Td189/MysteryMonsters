@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MysteryMons.vcxproj" Id="8d11e415-fdf9-443b-8f25-72299962a7de" />
+</Solution>
